@@ -13,7 +13,7 @@
 
 😁 Convert JPG scans to PDF
 
-😁 Share COVID Vaccination Card with others
+😁 Share COVID Vaccination Card with others (i.e Airdrop)
 
 😁 Add the Vaccination Card into your Apple Wallet
 
