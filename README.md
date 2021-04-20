@@ -4,7 +4,7 @@
 ## Use Case
 
 - Automatically detect COVID Vaccination Card
-- Easily edit with your COVID Vaccination Card after you have scanned it
+- Easily edit your COVID Vaccination Card after you have scanned it
 - Enhance the scan with black-and-white post-processing
 - Save your scan as PDF or JPG
 - Convert JPG scans to PDF
